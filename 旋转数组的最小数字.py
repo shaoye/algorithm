@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-# LeetCode - 153
+# LeetCode - 153 & 154
 
 class Solution:
     def minNumberInRotateArray(self, rotateArray):
